@@ -28,4 +28,3 @@ coverage
 *.sw?
 
 #static files
-public/images
